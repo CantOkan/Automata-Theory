@@ -1,3 +1,3 @@
 # Automata-Theory
 
-+DFA
+**automata theory and formal languages**
