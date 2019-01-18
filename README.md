@@ -1,3 +1,3 @@
 # Automata-Theory
 
-+* DFA
+*DFA
